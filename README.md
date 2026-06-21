@@ -217,7 +217,7 @@ Produces `report.pdf` using ReportLab.
 ## Repository Structure
 
 ```
-assignment_one/
+frozen-lake-qlearning/
 ├── environment.py      # FrozenLakeEnv class (Part A)
 ├── agent.py            # QLearningAgent class (Part B)
 ├── train.py            # Training loop + plots (Parts C, D, Bonus B)
